@@ -1,0 +1,11 @@
+{
+  "canales": [
+    {
+      "id": "telefe",
+      "name": "Telefe",
+      "category": "Entretenimiento",
+      "logo": "",
+      "streamUrl": ""
+    }
+  ]
+}
