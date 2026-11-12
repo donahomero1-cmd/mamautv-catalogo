@@ -44,11 +44,10 @@
       "logoUrl": "http://redworld.pro:8880/images/7c9e1a4b6d2f8e0c5a3b9d1f7e6c4a2b.jpg"
     },
     {
-      "id": "tnt-sports",
-      "name": "TNT Sports",
-      "category": "Deportes",
-      "streamUrl": "http://181.13.252.102:8000/play/a0bc/index.m3u8",
-      "logoUrl": "http://redworld.pro:8880/images/3e7a9c1d5f2b8a6e4c0d9f7b1a3e5c8d.jpg"
+  "id": "prueba",
+  "name": "Prueba DASH",
+  "category": "Deportes",
+  "url": ["https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd"]
     },
     {
       "id": "tyc-sports",
