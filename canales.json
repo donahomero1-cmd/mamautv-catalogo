@@ -1179,7 +1179,7 @@
             "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd"
         ],
         "headers": {
-            "Origin": "https://portal.app.flow.com.ar/"
+            "Origin": ""
         },
         "drm": {
             "scheme": "clearkey",
