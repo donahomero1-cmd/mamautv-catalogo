@@ -3,90 +3,105 @@
     {
       "id": "dragonballrrsurrecion",
       "name": "Dragon Ball Resurrección de freezer",
+      "category": "Animación, Acción",
       "logoUrl": "http://redworld.pro:8880/images/915c3e922f5b64b57a338c7dd1a1fb1d.jpg",
       "streamUrl": "http://104.238.222.78:8080/movie/fabriciopptv/9DKB9AEjLhkf/559369.mkv?token=ThUKWEAMEQgXB1xQVloABwUCCQcIBgcEUVJTAFBVVwRTVVsKV1MHAABGFERDTREDVwlnWVRBDAQCXQVTWxxAFEZSEGZaABEIF1APVAIIUUQaRkxZXQYUCwZTD1FRCFtWAAFOG0MNVxAPRglWBQlWVwdGFBJVG0JURQpXCT1UBxdcVAcbCUYRHhcLVjlUXA4HWAAaChJTFB0VDUUVQApANVBbB19cClpRVERcAxB4EQFTCkxZXgIUHRUGXxEQURYEFw1ACwJWAxAZRlsJRVcXFE9GAhJxMRQdFQFOEQdeEQhaWUADEQlYRBdIGg9DZhEDRRBKVVEOU0MVXhRVQBxADFRPPVpcCl1XVhBRCV5KQVwUVRocEg5ZX14QWRc9QAsFFw0MTF8ITg=="
     },
     {
       "id": "residentevilcero",
       "name": "Resident Evil Noche cero",
+      "category": "Terror",
       "logoUrl": "http://redworld.pro:8880/images/0fee9cbf73b2a9334990cd9351eee273.jpg",
       "streamUrl": "http://38.22.104.106:8080/movie/fabriciopptv/9DKB9AEjLhkf/567927.mp4?token=ThUKWEAMEQgXVFwHBVxSXwVVXQQBUVMBVlwDBFdWUlVTBlNYVV1VBgNGFERDTREDVwlnWVRBDAQBUw9XVRxAFEZSEGZaABEIF1APVAIIUUQaRkxZXQYUCwZTD1FWAVFQAQNOG0MNVxAPRgtWBwFbVxRIGlVIF1NDWQVaOgZVFAhWUkADEUYfEFoKZwJVVAIIUkYCEgBBGhNeF0ZHWBI2BFlSBFZdDVBTFQBdRnFLBANYEFFeUUEaE1UNQhcDRAdDDxVTDgpWER4XB1cTXk0RHxReGnFiQRoTUhxCAAxDCw5bFVgbXhQHEBlGURVvSwYVQhZdUV0GRBMNRgZHThIPAE1oAVZdClZRQQ1XCEMbWUQHRhQSXQxYWEMLRDoSWQZDD1kXVV8Z"
     },
     {
       "id": "laodisea",
       "name": "La Odisea",
+      "category": "Acción, Aventura",
       "logoUrl": "http://redworld.pro:8880/images/baaf4fe8e6abb3eeeaf28e362cbcd47c.jpg",
       "streamUrl": "http://38.22.104.106:8080/movie/fabriciopptv/9DKB9AEjLhkf/568120.mp4?token=ThUKWEAMEQgXBgEHBF1aBAEADwgGB1dVVVQCVANSV1lUVlBaAwcGBgBGFERDTREDVwlnWVRBDAQBXAdXUhxAFEZSEGZaABEIF1APVAIIUUQaRkxZXQYUCwZTD1FWAVpQBA9OG0MNVxAPRglVBQlXVQZGFBJVG0JURQpXCT1UBxdcVAcbCUYRHhcLVjlUXA4HWAAaChJTFB0VDUUVQApANVBbB19cClpRVERcAxB4EQFTCkxZXgIUHRUGXxEQURYEFw1ACAtdChAZRlsJRVcXFE9GAhJxMRQdFQFOEQdeEQhaWUADEQlDBhdIGg9DZhEDRRBKVVEOU0MVXhRVQBxADFRPPVpcCl1XVhBRCV5KQVwUVRocEg5ZX14QWRc9QAsFFw0MTF8ITg=="
     },
     {
       "id": "viajedrchihiro",
       "name": "El viaje de Chihiro",
+      "category": "Animación, Aventura",
       "logoUrl": "http://redworld.pro:8880/images/ad34803ad6a1ce5fd2fe189d3cb9c6ec.jpg",
       "streamUrl": "http://38.22.104.106:8080/movie/fabriciopptv/9DKB9AEjLhkf/558117.mkv?token=ThUKWEAMEQgXUAEDVVpRUQ9TD1ZVVAUEUlYPAFYCU1NTVQAJBgBWVAxGFERDTREDVwlnWVRBDAQCXAdUVRxAFEZSEGZaABEIF1APVAIIUUQaRkxZXQYUCwZTD1FbBlZYAw5OG0MNVxAPRg5VAQpRVhRIGlVIF1NDWQVaOgZVFAhWUkADEUYfEFoKZwJVVAIIUkYCEgBBGhNeF0ZHWBI2BFlSBFZdDVBTFQBdRnFLBANYEFFeUUEaE1UNQhcDRAdDDxVQCABXER4XB1cTXk0RHxReGnFiQRoTUhxCAAxDCw5bFVgbXg9FEBlGURVvSwYVQhZdUV0GRBMNRgZHThIPAE1oAVZdClZRQQ1XCEMbWUQHRhQSXQxYWEMLRDoSWQZDD1kXVV8Z"
     },
     {
       "id": "dbsb",
       "name": "Dragon Ball super Brolu",
+      "category": "Animación, Acción",
       "logoUrl": "http://redworld.pro:8880/images/139128509526c5a604c02969fbd7c64d.jpg",
       "streamUrl": "http://38.22.104.106:8080/movie/fabriciopptv/9DKB9AEjLhkf/568120.mp4?token=ThUKWEAMEQgXBgEHBF1aBAEADwgGB1dVVVQCVANSV1lUVlBaAwcGBgBGFERDTREDVwlnWVRBDAQBXAdXUhxAFEZSEGZaABEIF1APVAIIUUQaRkxZXQYUCwZTD1FWAVpQBA9OG0MNVxAPRglVBQlXVQZGFBJVG0JURQpXCT1UBxdcVAcbCUYRHhcLVjlUXA4HWAAaChJTFB0VDUUVQApANVBbB19cClpRVERcAxB4EQFTCkxZXgIUHRUGXxEQURYEFw1ACAtdChAZRlsJRVcXFE9GAhJxMRQdFQFOEQdeEQhaWUADEQlDBhdIGg9DZhEDRRBKVVEOU0MVXhRVQBxADFRPPVpcCl1XVhBRCV5KQVwUVRocEg5ZX14QWRc9QAsFFw0MTF8ITg=="
     },
     {
       "id": "avengersiw",
       "name": "Avengers Infinity War",
+      "category": "Acción, Aventura, Ciencia ficción",
       "logoUrl": "http://redworld.pro:8880/images/e475132da235cfa2b8b9e62752efab11.jpg",
       "streamUrl": "http://38.22.104.106:8080/movie/fabriciopptv/9DKB9AEjLhkf/560467.mkv?token=ThUKWEAMEQgXUw9QCAhSUFJcCAMCBgYFAlcEVldVUgQAVVMMBVMLC1BGFERDTREDVwlnWVRBDAQBVAJTVRxAFEZSEGZaABEIF1APVAIIUUQaRkxZXQYUCwZTD1FbBltZBA5OG0MNVxAPRgtXBAhTVgdGFBJVG0JURQpXCT1UBxdcVAcbCUYRHhcLVjlUXA4HWAAaChJTFB0VDUUVQApAIHJyLHp6JRN2cER7L3V3IC93SBhkdSB4fnsrcSwjEDtBZnghcHYgcnYVN3koEHU2L2VGFBJSCkJDVhBTR1gSU1QCAEAVEQdcR1sQSh8SA0EnZEYUElUbQlRZF18KDBJYQ1hcFBsfRlpBahZdFURLBgdbAUoSCkEGExtGWwQabwEOW1kHWkcNXFxGRgJEARtPRFsLVllEDERuRw1SR1heFw1ZSg=="
     },
     {
       "id": "slot07",
       "name": "Próximamente 2",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     },
     {
       "id": "slot08",
       "name": "Próximamente 3",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     },
     {
       "id": "slot09",
       "name": "Próximamente 4",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     },
     {
       "id": "slot10",
       "name": "Próximamente 5",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     },
     {
       "id": "slot11",
       "name": "Próximamente 6",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     },
     {
       "id": "slot12",
       "name": "Próximamente 7",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     },
     {
       "id": "slot13",
       "name": "Próximamente 8",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     },
     {
       "id": "slot14",
       "name": "Próximamente 9",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     },
     {
       "id": "slot15",
       "name": "Próximamente 10",
+      "category": "Próximamente",
       "logoUrl": "",
       "streamUrl": "http://127.0.0.1/pendiente.mp4"
     }
