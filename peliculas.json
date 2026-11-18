@@ -26,9 +26,69 @@
     },
     {
       "id": "dbsb",
-      "name": "Dragon Ball super Broly",
+      "name": "Dragon Ball super Brolu",
       "logoUrl": "http://redworld.pro:8880/images/139128509526c5a604c02969fbd7c64d.jpg",
       "streamUrl": "http://38.22.104.106:8080/movie/fabriciopptv/9DKB9AEjLhkf/568120.mp4?token=ThUKWEAMEQgXBgEHBF1aBAEADwgGB1dVVVQCVANSV1lUVlBaAwcGBgBGFERDTREDVwlnWVRBDAQBXAdXUhxAFEZSEGZaABEIF1APVAIIUUQaRkxZXQYUCwZTD1FWAVpQBA9OG0MNVxAPRglVBQlXVQZGFBJVG0JURQpXCT1UBxdcVAcbCUYRHhcLVjlUXA4HWAAaChJTFB0VDUUVQApANVBbB19cClpRVERcAxB4EQFTCkxZXgIUHRUGXxEQURYEFw1ACAtdChAZRlsJRVcXFE9GAhJxMRQdFQFOEQdeEQhaWUADEQlDBhdIGg9DZhEDRRBKVVEOU0MVXhRVQBxADFRPPVpcCl1XVhBRCV5KQVwUVRocEg5ZX14QWRc9QAsFFw0MTF8ITg=="
+    },
+    {
+      "id": "slot06",
+      "name": "Próximamente 1",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot07",
+      "name": "Próximamente 2",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot08",
+      "name": "Próximamente 3",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot09",
+      "name": "Próximamente 4",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot10",
+      "name": "Próximamente 5",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot11",
+      "name": "Próximamente 6",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot12",
+      "name": "Próximamente 7",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot13",
+      "name": "Próximamente 8",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot14",
+      "name": "Próximamente 9",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
+    },
+    {
+      "id": "slot15",
+      "name": "Próximamente 10",
+      "logoUrl": "",
+      "streamUrl": "http://127.0.0.1/pendiente.mp4"
     }
   ]
 }
