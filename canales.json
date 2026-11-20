@@ -1181,7 +1181,7 @@
         "isLive": false,
         "isHD": false,
         "url": [
-            "https://edge-live02-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premium_HD/SA_Live_dash_enc/Fox_Sports_Premium_HD.mpd"
+            "https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjUxMjEwIiwic2lwIjoiMTg2LjM5LjE3LjE2NyIsInBhdGgiOiIvdm9kL2M1ZWRzL3ZvZC9NTU1NMDAxMDAwMDAyNjQzNTIwMy1WaW9sZXRhX2NvbW9fVDFfRTAxL18vdm9kX2Rhc2gvIiwic2Vzc2lvbl9jZG5faWQiOiJlMzVlNDhhNWI0ZWNlNTMyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEyOSIsInNvdXJjZXMiOlsxNDMsODUsMTc0LDg4XX0=.ZnPtpoIOAQM70S6kVUxf6RHm-jRTn4wxXHyUPtgCCabrIRbjryR-geOfMIvSCMKlsmyMDqdvEEFHFXvlqTeKWg==/live/c7eds/Fox_Sports_Premium_HD/SA_Live_dash_enc_wl/Fox_Sports_Premium_HD.mpd"
         ],
         "headers": {
             "Origin": "https://portal.app.flow.com.ar/",
