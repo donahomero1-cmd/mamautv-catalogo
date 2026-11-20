@@ -1181,7 +1181,7 @@
         "isLive": false,
         "isHD": false,
         "url": [
-            "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd"
+            "https://edge-live02-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premium_HD/SA_Live_dash_enc/Fox_Sports_Premium_HD.mpd"
         ],
         "headers": {
             "Origin": "https://portal.app.flow.com.ar/",
